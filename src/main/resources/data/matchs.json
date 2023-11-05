@@ -1,0 +1,3723 @@
+[
+  {
+    "numMatch": 1,
+    "dateMatch": {
+      "$date": "2007-09-07T00:00:00.000Z"
+    },
+    "nbSpectateurs": 10000,
+    "stade": {
+      "numStade": 3,
+      "nom": "Stade de France",
+      "ville": "Saint-Denis",
+      "capacite": 80000
+    },
+    "equipeR": {
+      "codeEquipe": "FRA",
+      "pays": "France",
+      "couleur": "Bleu",
+      "entraineur": "Bernard Laporte",
+      "score": 12,
+      "nbEssais": 0,
+      "joueurs": [
+        {
+          "numJoueur": 31,
+          "prenom": "Olivier",
+          "nom": "Milloud",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 5,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 32,
+          "prenom": "Raphael",
+          "nom": "Ibanez",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 33,
+          "prenom": "Pieter",
+          "nom": "de Villiers",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 34,
+          "prenom": "Sebastien",
+          "nom": "Chabal",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 35,
+          "prenom": "Jerome",
+          "nom": "Thion",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 36,
+          "prenom": "Serge",
+          "nom": "Betsen",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 37,
+          "prenom": "Thierry",
+          "nom": "Dusautoir",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 38,
+          "prenom": "Julien",
+          "nom": "Bonnaire",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 39,
+          "prenom": "Jean-Baptiste",
+          "nom": "Elissalde",
+          "poste": "Demi de melee",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 40,
+          "prenom": "Frederic",
+          "nom": "Michalak",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 41,
+          "prenom": "Cedric",
+          "nom": "Heymans",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 42,
+          "prenom": "Damien",
+          "nom": "Traille",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 43,
+          "prenom": "David",
+          "nom": "Marty",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 44,
+          "prenom": "Vincent",
+          "nom": "Clerc",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 45,
+          "prenom": "Clement",
+          "nom": "Poitrenaud",
+          "poste": "Arriere",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 46,
+          "prenom": "Dimitri",
+          "nom": "Szarzewski",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 17,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 47,
+          "prenom": "Jean-Baptiste",
+          "nom": "Poux",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 26,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 48,
+          "prenom": "Lionel",
+          "nom": "Nallet",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 32,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 49,
+          "prenom": "Yannick",
+          "nom": "Nyanga",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 13,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 50,
+          "prenom": "Lionel",
+          "nom": "Beauxis",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 15,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 51,
+          "prenom": "Yannick",
+          "nom": "Jauzion",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 52,
+          "prenom": "Aurelien",
+          "nom": "Rougerie",
+          "poste": "Arriere",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 53,
+          "prenom": "Sebastien",
+          "nom": "Bruno",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 54,
+          "prenom": "Christophe",
+          "nom": "Dominici",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 55,
+          "prenom": "Imanol",
+          "nom": "Harinordoquy",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 56,
+          "prenom": "Remy",
+          "nom": "Martin",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 57,
+          "prenom": "Nicolas",
+          "nom": "Mas",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 58,
+          "prenom": "Pierre",
+          "nom": "Mignoni",
+          "poste": "Demi de melee",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 59,
+          "prenom": "Fabien",
+          "nom": "Pelous",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 60,
+          "prenom": "David",
+          "nom": "Skrela",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA"
+        }
+      ]
+    },
+    "equipeD": {
+      "codeEquipe": "NZL",
+      "pays": "Nouvelle-Zelande",
+      "couleur": "Azur-Blanc",
+      "entraineur": "Graham Henry",
+      "score": 17,
+      "nbEssais": 1,
+      "joueurs": [
+        {
+          "numJoueur": 1,
+          "prenom": "Tony",
+          "nom": "Woodcock",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 5,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 2,
+          "prenom": "Keven",
+          "nom": "Mealamu",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 3,
+          "prenom": "Carl",
+          "nom": "Hayman",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 4,
+          "prenom": "Chris",
+          "nom": "Jack",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 5,
+          "prenom": "Ali",
+          "nom": "Williams",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 6,
+          "prenom": "Jerry",
+          "nom": "Collins",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 7,
+          "prenom": "Richie",
+          "nom": "McCaw",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 8,
+          "prenom": "Rodney",
+          "nom": "So'oialo",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 9,
+          "prenom": "Byron",
+          "nom": "Kelleher",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 10,
+          "prenom": "Dan",
+          "nom": "Carter",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 11,
+          "prenom": "Sitiveni",
+          "nom": "Sivivatu",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 12,
+          "prenom": "Luke",
+          "nom": "McAlister",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 13,
+          "prenom": "Mils",
+          "nom": "Muliaina",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 14,
+          "prenom": "Doug",
+          "nom": "Howlett",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 15,
+          "prenom": "Leon",
+          "nom": "MacDonald",
+          "poste": "Arriere",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 16,
+          "prenom": "Neemia",
+          "nom": "Tialata",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 34,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 17,
+          "prenom": "Andrew",
+          "nom": "Hore",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 24,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 18,
+          "prenom": "Greg",
+          "nom": "Somerville",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 12,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 19,
+          "prenom": "Anton",
+          "nom": "Oliver",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 30,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 20,
+          "prenom": "Chris",
+          "nom": "Masoe",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 15,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 21,
+          "prenom": "Nick",
+          "nom": "Evans",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 22,
+          "prenom": "Joe",
+          "nom": "Rokocoko",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 23,
+          "prenom": "Conrad",
+          "nom": "Smith",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 24,
+          "prenom": "Andrew",
+          "nom": "Ellis",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 25,
+          "prenom": "Sione",
+          "nom": "Lauaki",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 26,
+          "prenom": "Keith",
+          "nom": "Robinson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 27,
+          "prenom": "Reuben",
+          "nom": "Thorne",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 28,
+          "prenom": "Isaia",
+          "nom": "Toeava",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 29,
+          "prenom": "Aaron",
+          "nom": "Mauger",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 30,
+          "prenom": "Brendon",
+          "nom": "Leonard",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL"
+        }
+      ]
+    },
+    "arbitre": {
+      "numArbitre": 1,
+      "nomArbitre": "Barnes",
+      "prenomArbitre": "Wayne",
+      "pays": "Angleterre"
+    }
+  },
+  {
+    "numMatch": 2,
+    "dateMatch": {
+      "$date": "2007-09-09T00:00:00.000Z"
+    },
+    "nbSpectateurs": 20000,
+    "stade": {
+      "numStade": 4,
+      "nom": "Chaban-Delmas",
+      "ville": "Bordeaux",
+      "capacite": 40000
+    },
+    "equipeR": {
+      "codeEquipe": "AUS",
+      "pays": "Australie",
+      "couleur": "Jaune-Vert",
+      "entraineur": "John Connolly",
+      "score": 32,
+      "nbEssais": 5,
+      "joueurs": [
+        {
+          "numJoueur": 61,
+          "prenom": "Matt",
+          "nom": "Dunning",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 10,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 62,
+          "prenom": "Stephen",
+          "nom": "Moore",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 63,
+          "prenom": "Al",
+          "nom": "Baxter",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 64,
+          "prenom": "Nathan",
+          "nom": "Sharpe",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 65,
+          "prenom": "Daniel",
+          "nom": "Vickerman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 7,
+          "nbEssais": 3
+        },
+        {
+          "numJoueur": 66,
+          "prenom": "Rocky",
+          "nom": "Elsom",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 67,
+          "prenom": "George",
+          "nom": "Smith",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 68,
+          "prenom": "Wycliff",
+          "nom": "Palu",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 69,
+          "prenom": "George",
+          "nom": "Gregan",
+          "poste": "Demi de melee",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 70,
+          "prenom": "Stephen",
+          "nom": "Larkham",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 71,
+          "prenom": "Lote",
+          "nom": "Tuqiri",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 72,
+          "prenom": "Matt",
+          "nom": "Giteau",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 73,
+          "prenom": "Stirling",
+          "nom": "Mortlock",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 74,
+          "prenom": "Adam",
+          "nom": "Ashley-Cooper",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 5,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 75,
+          "prenom": "Chris",
+          "nom": "Latham",
+          "poste": "Arriere",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 76,
+          "prenom": "Adam",
+          "nom": "Freier",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 18,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 77,
+          "prenom": "Guy",
+          "nom": "Shepherdson",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 32,
+          "nbPoints": 5,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 78,
+          "prenom": "Hugh",
+          "nom": "McMeniman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 25,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 79,
+          "prenom": "Stephen",
+          "nom": "Hoiles",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 16,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 80,
+          "prenom": "Berrick",
+          "nom": "Barnes",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 13,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 81,
+          "prenom": "Drew",
+          "nom": "Mitchell",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 82,
+          "prenom": "Mark",
+          "nom": "Gerrard",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 83,
+          "prenom": "Mark",
+          "nom": "Chisholm",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 84,
+          "prenom": "Sam",
+          "nom": "Cordingley",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 85,
+          "prenom": "Sean",
+          "nom": "Hardman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 86,
+          "prenom": "Greg",
+          "nom": "Holmes",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 87,
+          "prenom": "Julian",
+          "nom": "Huxley",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 88,
+          "prenom": "David",
+          "nom": "Lyons",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 89,
+          "prenom": "Cameron",
+          "nom": "Shepherd",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 90,
+          "prenom": "Scott",
+          "nom": "Staniforth",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS"
+        }
+      ]
+    },
+    "equipeD": {
+      "codeEquipe": "SCO",
+      "pays": "Ecosse",
+      "couleur": "Bleu-Blanc",
+      "entraineur": "Frank Hadden",
+      "score": 17,
+      "nbEssais": 2,
+      "joueurs": [
+        {
+          "numJoueur": 91,
+          "prenom": "Gavin",
+          "nom": "Kerr",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 5,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 92,
+          "prenom": "Ross",
+          "nom": "Ford",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 93,
+          "prenom": "Euan",
+          "nom": "Murray",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 94,
+          "prenom": "Nathan",
+          "nom": "Hines",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 95,
+          "prenom": "Jim",
+          "nom": "Hamilton",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 96,
+          "prenom": "Jason",
+          "nom": "White",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 97,
+          "prenom": "Allister",
+          "nom": "Hogg",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 98,
+          "prenom": "Simon",
+          "nom": "Taylor",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 99,
+          "prenom": "Mike",
+          "nom": "Blair",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 100,
+          "prenom": "Dan",
+          "nom": "Parks",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 101,
+          "prenom": "Chris",
+          "nom": "Paterson",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 5,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 102,
+          "prenom": "Rob",
+          "nom": "Dewey",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 103,
+          "prenom": "Simon",
+          "nom": "Webster",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 104,
+          "prenom": "Sean",
+          "nom": "Lamont",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 105,
+          "prenom": "Rory",
+          "nom": "Lamont",
+          "poste": "Arriere",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 106,
+          "prenom": "Scott",
+          "nom": "Lawson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 17,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 107,
+          "prenom": "Craig",
+          "nom": "Smith",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 32,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 108,
+          "prenom": "Scott",
+          "nom": "MacLeod",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 16,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 109,
+          "prenom": "Kelly",
+          "nom": "Brown",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 22,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 110,
+          "prenom": "Chris",
+          "nom": "Cusiter",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 14,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 111,
+          "prenom": "Hugo",
+          "nom": "Southwell",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 112,
+          "prenom": "Nikki",
+          "nom": "Walker",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 113,
+          "prenom": "John",
+          "nom": "Barclay",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 114,
+          "prenom": "David",
+          "nom": "Callam",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 115,
+          "prenom": "Marcus",
+          "nom": "Di Rollo",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 116,
+          "prenom": "Alasdair",
+          "nom": "Dickinson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 117,
+          "prenom": "Andrew",
+          "nom": "Henderson",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 118,
+          "prenom": "Allan",
+          "nom": "Jacobsen",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 119,
+          "prenom": "Rory",
+          "nom": "Lawson",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 120,
+          "prenom": "Euan",
+          "nom": "Murray",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO"
+        }
+      ]
+    },
+    "arbitre": {
+      "numArbitre": 3,
+      "nomArbitre": "Honiss",
+      "prenomArbitre": "Paul",
+      "pays": "Nouvelle-Zelande"
+    }
+  },
+  {
+    "numMatch": 3,
+    "dateMatch": {
+      "$date": "2007-09-11T00:00:00.000Z"
+    },
+    "nbSpectateurs": 30000,
+    "stade": {
+      "numStade": 5,
+      "nom": "Gerland",
+      "ville": "Lyon",
+      "capacite": 40000
+    },
+    "equipeR": {
+      "codeEquipe": "NZL",
+      "pays": "Nouvelle-Zelande",
+      "couleur": "Noir",
+      "entraineur": "Graham Henry",
+      "score": 33,
+      "nbEssais": 4,
+      "joueurs": [
+        {
+          "numJoueur": 1,
+          "prenom": "Tony",
+          "nom": "Woodcock",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 2,
+          "prenom": "Keven",
+          "nom": "Mealamu",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 3,
+          "prenom": "Carl",
+          "nom": "Hayman",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 12,
+          "nbEssais": 4
+        },
+        {
+          "numJoueur": 4,
+          "prenom": "Chris",
+          "nom": "Jack",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 5,
+          "prenom": "Ali",
+          "nom": "Williams",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 6,
+          "prenom": "Jerry",
+          "nom": "Collins",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 7,
+          "prenom": "Richie",
+          "nom": "McCaw",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 4,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 8,
+          "prenom": "Rodney",
+          "nom": "So'oialo",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 9,
+          "prenom": "Byron",
+          "nom": "Kelleher",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 10,
+          "prenom": "Dan",
+          "nom": "Carter",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 8,
+          "nbEssais": 3
+        },
+        {
+          "numJoueur": 11,
+          "prenom": "Sitiveni",
+          "nom": "Sivivatu",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 12,
+          "prenom": "Luke",
+          "nom": "McAlister",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 13,
+          "prenom": "Mils",
+          "nom": "Muliaina",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 14,
+          "prenom": "Doug",
+          "nom": "Howlett",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 15,
+          "prenom": "Leon",
+          "nom": "MacDonald",
+          "poste": "Arriere",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 16,
+          "prenom": "Neemia",
+          "nom": "Tialata",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 34,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 17,
+          "prenom": "Andrew",
+          "nom": "Hore",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 24,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 18,
+          "prenom": "Greg",
+          "nom": "Somerville",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 19,
+          "prenom": "Anton",
+          "nom": "Oliver",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 30,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 20,
+          "prenom": "Chris",
+          "nom": "Masoe",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 15,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 21,
+          "prenom": "Nick",
+          "nom": "Evans",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 22,
+          "prenom": "Joe",
+          "nom": "Rokocoko",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 23,
+          "prenom": "Conrad",
+          "nom": "Smith",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 24,
+          "prenom": "Andrew",
+          "nom": "Ellis",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 25,
+          "prenom": "Sione",
+          "nom": "Lauaki",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 26,
+          "prenom": "Keith",
+          "nom": "Robinson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 27,
+          "prenom": "Reuben",
+          "nom": "Thorne",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 28,
+          "prenom": "Isaia",
+          "nom": "Toeava",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 29,
+          "prenom": "Aaron",
+          "nom": "Mauger",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 30,
+          "prenom": "Brendon",
+          "nom": "Leonard",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 12,
+          "nbPoints": 3,
+          "nbEssais": 1
+        }
+      ]
+    },
+    "equipeD": {
+      "codeEquipe": "AUS",
+      "pays": "Australie",
+      "couleur": "Jaune-Vert",
+      "entraineur": "John Connolly",
+      "score": 3,
+      "nbEssais": 1,
+      "joueurs": [
+        {
+          "numJoueur": 61,
+          "prenom": "Matt",
+          "nom": "Dunning",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 62,
+          "prenom": "Stephen",
+          "nom": "Moore",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 63,
+          "prenom": "Al",
+          "nom": "Baxter",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 64,
+          "prenom": "Nathan",
+          "nom": "Sharpe",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 65,
+          "prenom": "Daniel",
+          "nom": "Vickerman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 66,
+          "prenom": "Rocky",
+          "nom": "Elsom",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 67,
+          "prenom": "George",
+          "nom": "Smith",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 68,
+          "prenom": "Wycliff",
+          "nom": "Palu",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 69,
+          "prenom": "George",
+          "nom": "Gregan",
+          "poste": "Demi de melee",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 70,
+          "prenom": "Stephen",
+          "nom": "Larkham",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 71,
+          "prenom": "Lote",
+          "nom": "Tuqiri",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 72,
+          "prenom": "Matt",
+          "nom": "Giteau",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 73,
+          "prenom": "Stirling",
+          "nom": "Mortlock",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 74,
+          "prenom": "Adam",
+          "nom": "Ashley-Cooper",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 75,
+          "prenom": "Chris",
+          "nom": "Latham",
+          "poste": "Arriere",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 76,
+          "prenom": "Adam",
+          "nom": "Freier",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 18,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 77,
+          "prenom": "Guy",
+          "nom": "Shepherdson",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 32,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 78,
+          "prenom": "Hugh",
+          "nom": "McMeniman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS",
+          "titulaire": false
+        },
+        {
+          "numJoueur": 79,
+          "prenom": "Stephen",
+          "nom": "Hoiles",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 16,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 80,
+          "prenom": "Berrick",
+          "nom": "Barnes",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 13,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 81,
+          "prenom": "Drew",
+          "nom": "Mitchell",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 82,
+          "prenom": "Mark",
+          "nom": "Gerrard",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 83,
+          "prenom": "Mark",
+          "nom": "Chisholm",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 84,
+          "prenom": "Sam",
+          "nom": "Cordingley",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 85,
+          "prenom": "Sean",
+          "nom": "Hardman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 86,
+          "prenom": "Greg",
+          "nom": "Holmes",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 87,
+          "prenom": "Julian",
+          "nom": "Huxley",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 88,
+          "prenom": "David",
+          "nom": "Lyons",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 13,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 89,
+          "prenom": "Cameron",
+          "nom": "Shepherd",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 90,
+          "prenom": "Scott",
+          "nom": "Staniforth",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS"
+        }
+      ]
+    },
+    "arbitre": {
+      "numArbitre": 5,
+      "nomArbitre": "Jutge",
+      "prenomArbitre": "Joel",
+      "pays": "France"
+    }
+  },
+  {
+    "numMatch": 4,
+    "dateMatch": {
+      "$date": "2007-09-15T00:00:00.000Z"
+    },
+    "nbSpectateurs": 40000,
+    "stade": {
+      "numStade": 4,
+      "nom": "Chaban-Delmas",
+      "ville": "Bordeaux",
+      "capacite": 40000
+    },
+    "equipeR": {
+      "codeEquipe": "SCO",
+      "pays": "Ecosse",
+      "couleur": "Bleu-Blanc",
+      "entraineur": "Frank Hadden",
+      "score": 14,
+      "nbEssais": 2,
+      "joueurs": [
+        {
+          "numJoueur": 91,
+          "prenom": "Gavin",
+          "nom": "Kerr",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 5,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 92,
+          "prenom": "Ross",
+          "nom": "Ford",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 93,
+          "prenom": "Euan",
+          "nom": "Murray",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 94,
+          "prenom": "Nathan",
+          "nom": "Hines",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 95,
+          "prenom": "Jim",
+          "nom": "Hamilton",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 96,
+          "prenom": "Jason",
+          "nom": "White",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 97,
+          "prenom": "Allister",
+          "nom": "Hogg",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 98,
+          "prenom": "Simon",
+          "nom": "Taylor",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 99,
+          "prenom": "Mike",
+          "nom": "Blair",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 100,
+          "prenom": "Dan",
+          "nom": "Parks",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 101,
+          "prenom": "Chris",
+          "nom": "Paterson",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 102,
+          "prenom": "Rob",
+          "nom": "Dewey",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 103,
+          "prenom": "Simon",
+          "nom": "Webster",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 104,
+          "prenom": "Sean",
+          "nom": "Lamont",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 105,
+          "prenom": "Rory",
+          "nom": "Lamont",
+          "poste": "Arriere",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 106,
+          "prenom": "Scott",
+          "nom": "Lawson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 17,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 107,
+          "prenom": "Craig",
+          "nom": "Smith",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 108,
+          "prenom": "Scott",
+          "nom": "MacLeod",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 16,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 109,
+          "prenom": "Kelly",
+          "nom": "Brown",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 22,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 110,
+          "prenom": "Chris",
+          "nom": "Cusiter",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 14,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 111,
+          "prenom": "Hugo",
+          "nom": "Southwell",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 112,
+          "prenom": "Nikki",
+          "nom": "Walker",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 113,
+          "prenom": "John",
+          "nom": "Barclay",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 114,
+          "prenom": "David",
+          "nom": "Callam",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 115,
+          "prenom": "Marcus",
+          "nom": "Di Rollo",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 116,
+          "prenom": "Alasdair",
+          "nom": "Dickinson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 117,
+          "prenom": "Andrew",
+          "nom": "Henderson",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 118,
+          "prenom": "Allan",
+          "nom": "Jacobsen",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 119,
+          "prenom": "Rory",
+          "nom": "Lawson",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 19,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 120,
+          "prenom": "Euan",
+          "nom": "Murray",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO"
+        }
+      ]
+    },
+    "equipeD": {
+      "codeEquipe": "FRA",
+      "pays": "France",
+      "couleur": "Bleu",
+      "entraineur": "Bernard Laporte",
+      "score": 10,
+      "nbEssais": 1,
+      "joueurs": [
+        {
+          "numJoueur": 31,
+          "prenom": "Olivier",
+          "nom": "Milloud",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 32,
+          "prenom": "Raphael",
+          "nom": "Ibanez",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 5,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 33,
+          "prenom": "Pieter",
+          "nom": "de Villiers",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 34,
+          "prenom": "Sebastien",
+          "nom": "Chabal",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 35,
+          "prenom": "Jerome",
+          "nom": "Thion",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 36,
+          "prenom": "Serge",
+          "nom": "Betsen",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 37,
+          "prenom": "Thierry",
+          "nom": "Dusautoir",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 38,
+          "prenom": "Julien",
+          "nom": "Bonnaire",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 39,
+          "prenom": "Jean-Baptiste",
+          "nom": "Elissalde",
+          "poste": "Demi de melee",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 40,
+          "prenom": "Frederic",
+          "nom": "Michalak",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 41,
+          "prenom": "Cedric",
+          "nom": "Heymans",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 42,
+          "prenom": "Damien",
+          "nom": "Traille",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 43,
+          "prenom": "David",
+          "nom": "Marty",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 44,
+          "prenom": "Vincent",
+          "nom": "Clerc",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 45,
+          "prenom": "Clement",
+          "nom": "Poitrenaud",
+          "poste": "Arriere",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 46,
+          "prenom": "Dimitri",
+          "nom": "Szarzewski",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 47,
+          "prenom": "Jean-Baptiste",
+          "nom": "Poux",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 26,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 48,
+          "prenom": "Lionel",
+          "nom": "Nallet",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 32,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 49,
+          "prenom": "Yannick",
+          "nom": "Nyanga",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 13,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 50,
+          "prenom": "Lionel",
+          "nom": "Beauxis",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 15,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 51,
+          "prenom": "Yannick",
+          "nom": "Jauzion",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 52,
+          "prenom": "Aurelien",
+          "nom": "Rougerie",
+          "poste": "Arriere",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 53,
+          "prenom": "Sebastien",
+          "nom": "Bruno",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 54,
+          "prenom": "Christophe",
+          "nom": "Dominici",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 55,
+          "prenom": "Imanol",
+          "nom": "Harinordoquy",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 56,
+          "prenom": "Remy",
+          "nom": "Martin",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 57,
+          "prenom": "Nicolas",
+          "nom": "Mas",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 58,
+          "prenom": "Pierre",
+          "nom": "Mignoni",
+          "poste": "Demi de melee",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 59,
+          "prenom": "Fabien",
+          "nom": "Pelous",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 12,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 60,
+          "prenom": "David",
+          "nom": "Skrela",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA"
+        }
+      ]
+    },
+    "arbitre": {
+      "numArbitre": 2,
+      "nomArbitre": "Dickinson",
+      "prenomArbitre": "Stuart",
+      "pays": "Australie"
+    }
+  },
+  {
+    "numMatch": 5,
+    "dateMatch": {
+      "$date": "2007-09-16T00:00:00.000Z"
+    },
+    "nbSpectateurs": 30000,
+    "stade": {
+      "numStade": 10,
+      "nom": "Stadium",
+      "ville": "Toulouse",
+      "capacite": 35000
+    },
+    "equipeR": {
+      "codeEquipe": "FRA",
+      "pays": "France",
+      "couleur": "Bleu",
+      "entraineur": "Bernard Laporte",
+      "score": 87,
+      "nbEssais": 13,
+      "joueurs": [
+        {
+          "numJoueur": 31,
+          "prenom": "Olivier",
+          "nom": "Milloud",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 25,
+          "nbEssais": 4
+        },
+        {
+          "numJoueur": 32,
+          "prenom": "Raphael",
+          "nom": "Ibanez",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 33,
+          "prenom": "Pieter",
+          "nom": "de Villiers",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 34,
+          "prenom": "Sebastien",
+          "nom": "Chabal",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 35,
+          "prenom": "Jerome",
+          "nom": "Thion",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 36,
+          "prenom": "Serge",
+          "nom": "Betsen",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true
+        },
+        {
+          "numJoueur": 37,
+          "prenom": "Thierry",
+          "nom": "Dusautoir",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 38,
+          "prenom": "Julien",
+          "nom": "Bonnaire",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 13,
+          "nbEssais": 3
+        },
+        {
+          "numJoueur": 39,
+          "prenom": "Jean-Baptiste",
+          "nom": "Elissalde",
+          "poste": "Demi de melee",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 40,
+          "prenom": "Frederic",
+          "nom": "Michalak",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 41,
+          "prenom": "Cedric",
+          "nom": "Heymans",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true
+        },
+        {
+          "numJoueur": 42,
+          "prenom": "Damien",
+          "nom": "Traille",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 43,
+          "prenom": "David",
+          "nom": "Marty",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 7,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 44,
+          "prenom": "Vincent",
+          "nom": "Clerc",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 45,
+          "prenom": "Clement",
+          "nom": "Poitrenaud",
+          "poste": "Arriere",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 46,
+          "prenom": "Dimitri",
+          "nom": "Szarzewski",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 17,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 47,
+          "prenom": "Jean-Baptiste",
+          "nom": "Poux",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 26,
+          "nbPoints": 18,
+          "nbEssais": 5
+        },
+        {
+          "numJoueur": 48,
+          "prenom": "Lionel",
+          "nom": "Nallet",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 32,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 49,
+          "prenom": "Yannick",
+          "nom": "Nyanga",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "FRA",
+          "titulaire": false
+        },
+        {
+          "numJoueur": 50,
+          "prenom": "Lionel",
+          "nom": "Beauxis",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 15,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 51,
+          "prenom": "Yannick",
+          "nom": "Jauzion",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 52,
+          "prenom": "Aurelien",
+          "nom": "Rougerie",
+          "poste": "Arriere",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 53,
+          "prenom": "Sebastien",
+          "nom": "Bruno",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 8,
+          "nbEssais": 3
+        },
+        {
+          "numJoueur": 54,
+          "prenom": "Christophe",
+          "nom": "Dominici",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 10,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 55,
+          "prenom": "Imanol",
+          "nom": "Harinordoquy",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 56,
+          "prenom": "Remy",
+          "nom": "Martin",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 57,
+          "prenom": "Nicolas",
+          "nom": "Mas",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "FRA",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 6,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 58,
+          "prenom": "Pierre",
+          "nom": "Mignoni",
+          "poste": "Demi de melee",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 59,
+          "prenom": "Fabien",
+          "nom": "Pelous",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "FRA"
+        },
+        {
+          "numJoueur": 60,
+          "prenom": "David",
+          "nom": "Skrela",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "FRA",
+          "titulaire": false,
+          "tpsJeu": 12,
+          "nbPoints": 3,
+          "nbEssais": 1
+        }
+      ]
+    },
+    "equipeD": {
+      "codeEquipe": "AUS",
+      "pays": "Australie",
+      "couleur": "Jaune-Vert",
+      "entraineur": "John Connolly",
+      "score": 10,
+      "nbEssais": 2,
+      "joueurs": [
+        {
+          "numJoueur": 61,
+          "prenom": "Matt",
+          "nom": "Dunning",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 62,
+          "prenom": "Stephen",
+          "nom": "Moore",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 63,
+          "prenom": "Al",
+          "nom": "Baxter",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 64,
+          "prenom": "Nathan",
+          "nom": "Sharpe",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS",
+          "titulaire": true
+        },
+        {
+          "numJoueur": 65,
+          "prenom": "Daniel",
+          "nom": "Vickerman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 5,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 66,
+          "prenom": "Rocky",
+          "nom": "Elsom",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 67,
+          "prenom": "George",
+          "nom": "Smith",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 68,
+          "prenom": "Wycliff",
+          "nom": "Palu",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS",
+          "titulaire": true
+        },
+        {
+          "numJoueur": 69,
+          "prenom": "George",
+          "nom": "Gregan",
+          "poste": "Demi de melee",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 70,
+          "prenom": "Stephen",
+          "nom": "Larkham",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 71,
+          "prenom": "Lote",
+          "nom": "Tuqiri",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 72,
+          "prenom": "Matt",
+          "nom": "Giteau",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 73,
+          "prenom": "Stirling",
+          "nom": "Mortlock",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 74,
+          "prenom": "Adam",
+          "nom": "Ashley-Cooper",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 75,
+          "prenom": "Chris",
+          "nom": "Latham",
+          "poste": "Arriere",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 76,
+          "prenom": "Adam",
+          "nom": "Freier",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "AUS",
+          "titulaire": false
+        },
+        {
+          "numJoueur": 77,
+          "prenom": "Guy",
+          "nom": "Shepherdson",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 32,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 78,
+          "prenom": "Hugh",
+          "nom": "McMeniman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 25,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 79,
+          "prenom": "Stephen",
+          "nom": "Hoiles",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 16,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 80,
+          "prenom": "Berrick",
+          "nom": "Barnes",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 13,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 81,
+          "prenom": "Drew",
+          "nom": "Mitchell",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 82,
+          "prenom": "Mark",
+          "nom": "Gerrard",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 83,
+          "prenom": "Mark",
+          "nom": "Chisholm",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 84,
+          "prenom": "Sam",
+          "nom": "Cordingley",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 85,
+          "prenom": "Sean",
+          "nom": "Hardman",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 86,
+          "prenom": "Greg",
+          "nom": "Holmes",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "AUS",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 87,
+          "prenom": "Julian",
+          "nom": "Huxley",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 88,
+          "prenom": "David",
+          "nom": "Lyons",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "AUS"
+        },
+        {
+          "numJoueur": 89,
+          "prenom": "Cameron",
+          "nom": "Shepherd",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "AUS",
+          "titulaire": false,
+          "tpsJeu": 18,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 90,
+          "prenom": "Scott",
+          "nom": "Staniforth",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "AUS"
+        }
+      ]
+    },
+    "arbitre": {
+      "numArbitre": 7,
+      "nomArbitre": "Lewis",
+      "prenomArbitre": "Alan",
+      "pays": "Irelande"
+    }
+  },
+  {
+    "numMatch": 6,
+    "dateMatch": {
+      "$date": "2007-09-21T00:00:00.000Z"
+    },
+    "nbSpectateurs": 15000,
+    "stade": {
+      "numStade": 3,
+      "nom": "Stade de France",
+      "ville": "Saint-Denis",
+      "capacite": 80000
+    },
+    "equipeR": {
+      "codeEquipe": "NZL",
+      "pays": "Nouvelle-Zelande",
+      "couleur": "Noir",
+      "entraineur": "Graham Henry",
+      "score": 25,
+      "nbEssais": 2,
+      "joueurs": [
+        {
+          "numJoueur": 1,
+          "prenom": "Tony",
+          "nom": "Woodcock",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 2,
+          "prenom": "Keven",
+          "nom": "Mealamu",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 3,
+          "prenom": "Carl",
+          "nom": "Hayman",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 7,
+          "nbEssais": 2
+        },
+        {
+          "numJoueur": 4,
+          "prenom": "Chris",
+          "nom": "Jack",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 5,
+          "prenom": "Ali",
+          "nom": "Williams",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 6,
+          "prenom": "Jerry",
+          "nom": "Collins",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 7,
+          "prenom": "Richie",
+          "nom": "McCaw",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 4,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 8,
+          "prenom": "Rodney",
+          "nom": "So'oialo",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 3,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 9,
+          "prenom": "Byron",
+          "nom": "Kelleher",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 10,
+          "prenom": "Dan",
+          "nom": "Carter",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 11,
+          "prenom": "Sitiveni",
+          "nom": "Sivivatu",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 12,
+          "prenom": "Luke",
+          "nom": "McAlister",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 13,
+          "prenom": "Mils",
+          "nom": "Muliaina",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 14,
+          "prenom": "Doug",
+          "nom": "Howlett",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 15,
+          "prenom": "Leon",
+          "nom": "MacDonald",
+          "poste": "Arriere",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 2,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 16,
+          "prenom": "Neemia",
+          "nom": "Tialata",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 34,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 17,
+          "prenom": "Andrew",
+          "nom": "Hore",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 24,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 18,
+          "prenom": "Greg",
+          "nom": "Somerville",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 19,
+          "prenom": "Anton",
+          "nom": "Oliver",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 30,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 20,
+          "prenom": "Chris",
+          "nom": "Masoe",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 15,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 21,
+          "prenom": "Nick",
+          "nom": "Evans",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 22,
+          "prenom": "Joe",
+          "nom": "Rokocoko",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 23,
+          "prenom": "Conrad",
+          "nom": "Smith",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 24,
+          "prenom": "Andrew",
+          "nom": "Ellis",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 25,
+          "prenom": "Sione",
+          "nom": "Lauaki",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 1,
+          "nbEssais": 1
+        },
+        {
+          "numJoueur": 26,
+          "prenom": "Keith",
+          "nom": "Robinson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 27,
+          "prenom": "Reuben",
+          "nom": "Thorne",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 28,
+          "prenom": "Isaia",
+          "nom": "Toeava",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 29,
+          "prenom": "Aaron",
+          "nom": "Mauger",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "NZL"
+        },
+        {
+          "numJoueur": 30,
+          "prenom": "Brendon",
+          "nom": "Leonard",
+          "poste": "Demi de melee",
+          "codeEquipe": "NZL",
+          "titulaire": false,
+          "tpsJeu": 12,
+          "nbPoints": 1,
+          "nbEssais": 1
+        }
+      ]
+    },
+    "equipeD": {
+      "codeEquipe": "SCO",
+      "pays": "Ecosse",
+      "couleur": "Bleu-Blanc",
+      "entraineur": "Frank Hadden",
+      "score": 3,
+      "nbEssais": 1,
+      "joueurs": [
+        {
+          "numJoueur": 91,
+          "prenom": "Gavin",
+          "nom": "Kerr",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 92,
+          "prenom": "Ross",
+          "nom": "Ford",
+          "poste": "Premiere ligne - Talonneur",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 93,
+          "prenom": "Euan",
+          "nom": "Murray",
+          "poste": "Premiere ligne - Pilier droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 94,
+          "prenom": "Nathan",
+          "nom": "Hines",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 95,
+          "prenom": "Jim",
+          "nom": "Hamilton",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 96,
+          "prenom": "Jason",
+          "nom": "White",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 97,
+          "prenom": "Allister",
+          "nom": "Hogg",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 98,
+          "prenom": "Simon",
+          "nom": "Taylor",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 99,
+          "prenom": "Mike",
+          "nom": "Blair",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 100,
+          "prenom": "Dan",
+          "nom": "Parks",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 101,
+          "prenom": "Chris",
+          "nom": "Paterson",
+          "poste": "Trois-quarts aile gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 102,
+          "prenom": "Rob",
+          "nom": "Dewey",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 103,
+          "prenom": "Simon",
+          "nom": "Webster",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 104,
+          "prenom": "Sean",
+          "nom": "Lamont",
+          "poste": "Trois-quarts aile droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 105,
+          "prenom": "Rory",
+          "nom": "Lamont",
+          "poste": "Arriere",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 106,
+          "prenom": "Scott",
+          "nom": "Lawson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 17,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 107,
+          "prenom": "Craig",
+          "nom": "Smith",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 108,
+          "prenom": "Scott",
+          "nom": "MacLeod",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 16,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 109,
+          "prenom": "Kelly",
+          "nom": "Brown",
+          "poste": "Troisieme ligne - Gauche",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 22,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 110,
+          "prenom": "Chris",
+          "nom": "Cusiter",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 14,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 111,
+          "prenom": "Hugo",
+          "nom": "Southwell",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 112,
+          "prenom": "Nikki",
+          "nom": "Walker",
+          "poste": "Demi d'ouverture",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 113,
+          "prenom": "John",
+          "nom": "Barclay",
+          "poste": "Troisieme ligne - Droit",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 114,
+          "prenom": "David",
+          "nom": "Callam",
+          "poste": "Troisieme ligne - Centre",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 115,
+          "prenom": "Marcus",
+          "nom": "Di Rollo",
+          "poste": "Trois-quarts centre droit",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 116,
+          "prenom": "Alasdair",
+          "nom": "Dickinson",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 117,
+          "prenom": "Andrew",
+          "nom": "Henderson",
+          "poste": "Trois-quarts centre gauche",
+          "codeEquipe": "SCO",
+          "titulaire": true,
+          "tpsJeu": 80,
+          "nbPoints": 0,
+          "nbEssais": 0
+        },
+        {
+          "numJoueur": 118,
+          "prenom": "Allan",
+          "nom": "Jacobsen",
+          "poste": "Premiere ligne - Pilier gauche",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 119,
+          "prenom": "Rory",
+          "nom": "Lawson",
+          "poste": "Demi de melee",
+          "codeEquipe": "SCO"
+        },
+        {
+          "numJoueur": 120,
+          "prenom": "Euan",
+          "nom": "Murray",
+          "poste": "Deuxieme ligne",
+          "codeEquipe": "SCO",
+          "titulaire": false,
+          "tpsJeu": 13,
+          "nbPoints": 3,
+          "nbEssais": 1
+        }
+      ]
+    },
+    "arbitre": {
+      "numArbitre": 2,
+      "nomArbitre": "Dickinson",
+      "prenomArbitre": "Stuart",
+      "pays": "Australie"
+    }
+  }
+]

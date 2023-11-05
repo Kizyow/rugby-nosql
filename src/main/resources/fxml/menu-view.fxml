@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane prefHeight="475.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fr.perrot54u.rugby.controllers.MenuController">
+    <center>
+        <VBox alignment="TOP_CENTER" prefHeight="0.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+            <children>
+                <Button alignment="CENTER" mnemonicParsing="false" onAction="#questionA" text="Question (a)" textAlignment="JUSTIFY">
+                    <VBox.margin>
+                        <Insets />
+                    </VBox.margin>
+                </Button>
+                <Button mnemonicParsing="false" onAction="#questionB" text="Question (b)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+                <Button mnemonicParsing="false" onAction="#questionC" text="Question (c)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+                <Button mnemonicParsing="false" onAction="#questionD" text="Question (d)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+                <Button layoutX="244.0" layoutY="115.0" mnemonicParsing="false" onAction="#questionE" text="Question (e)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+                <Button layoutX="244.0" layoutY="140.0" mnemonicParsing="false" onAction="#questionF" text="Question (f)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+                <Button layoutX="244.0" layoutY="165.0" mnemonicParsing="false" onAction="#questionG" text="Question (g)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+                <Button layoutX="244.0" layoutY="220.0" mnemonicParsing="false" onAction="#questionH" text="Question (h)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+                <Button layoutX="244.0" layoutY="245.0" mnemonicParsing="false" onAction="#questionI" text="Question (i)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+                <Button layoutX="244.0" layoutY="270.0" mnemonicParsing="false" onAction="#questionJ" text="Question (j)">
+                    <VBox.margin>
+                        <Insets top="10.0" />
+                    </VBox.margin>
+                </Button>
+            <Button layoutX="271.0" layoutY="325.0" mnemonicParsing="false" onAction="#questionK" text="Question (k)">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </Button>
+            </children>
+            <BorderPane.margin>
+                <Insets top="10.0" />
+            </BorderPane.margin>
+        </VBox>
+    </center>
+    <top>
+        <VBox prefHeight="75.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+            <children>
+                <HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="45.0" prefWidth="600.0">
+                    <children>
+                        <Button mnemonicParsing="false" onMouseClicked="#onDisconnect" prefHeight="29.0" prefWidth="30.0" textFill="#f80000">
+                            <graphic>
+                                <ImageView fitHeight="24.0" fitWidth="26.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@../images/back.jpg" />
+                                    </image>
+                                </ImageView>
+                            </graphic>
+                        </Button>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Coupe du monde de rugby" textAlignment="JUSTIFY" wrappingWidth="405.0897521972656">
+                            <font>
+                                <Font name="Arial Black" size="28.0" />
+                            </font>
+                            <HBox.margin>
+                                <Insets left="60.0" top="15.0" />
+                            </HBox.margin>
+                        </Text>
+                    </children>
+                </HBox>
+                <Text fx:id="serverData" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="336.0897521972656">
+                    <font>
+                        <Font name="Arial" size="16.0" />
+                    </font>
+                    <VBox.margin>
+                        <Insets left="133.0" />
+                    </VBox.margin>
+                </Text>
+            </children>
+        </VBox>
+    </top>
+</BorderPane>
